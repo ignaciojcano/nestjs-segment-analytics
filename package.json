@@ -5,6 +5,9 @@
   "author": "Ignacio Cano<code@nacho.sh>",
   "license": "MIT",
   "main": "dist/index.js",
+  "files": [
+    "dist"
+  ],
   "scripts": {
     "build": "nest build",
     "format": "prettier --write \"src/**/*.ts\"",
