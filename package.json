@@ -1,6 +1,6 @@
 {
   "name": "nestjs-segment-analytics",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Segment Analytics NestJS Module and Service",
   "author": "Ignacio Cano<code@nacho.sh>",
   "private": true,
