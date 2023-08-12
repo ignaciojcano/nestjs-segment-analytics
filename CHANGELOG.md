@@ -1,5 +1,7 @@
 
 
+## [0.0.4](https://github.com/ignaciojcano/nestjs-segment-analytics/compare/0.0.3...0.0.4) (2023-08-12)
+
 ## 0.0.3 (2023-08-12)
 
 ## 0.0.2 (2023-08-12)
