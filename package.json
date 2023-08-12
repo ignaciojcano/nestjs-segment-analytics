@@ -3,7 +3,6 @@
   "version": "0.0.2",
   "description": "Segment Analytics NestJS Module and Service",
   "author": "Ignacio Cano<code@nacho.sh>",
-  "private": true,
   "license": "MIT",
   "main": "dist/index.js",
   "scripts": {
