@@ -7,8 +7,7 @@
     "requireBranch": "main"
   },
   "npm": {
-    "publish": true,
-    "publishPath": "dist"
+    "publish": true
   },
   "plugins": {
     "@release-it/conventional-changelog": {
